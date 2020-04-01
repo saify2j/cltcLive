@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cltcLive/static/css/main.f106a2ec.chunk.css",
+    "main.js": "/cltcLive/static/js/main.4aebbf3f.chunk.js",
+    "main.js.map": "/cltcLive/static/js/main.4aebbf3f.chunk.js.map",
+    "runtime~main.js": "/cltcLive/static/js/runtime~main.88fa483f.js",
+    "runtime~main.js.map": "/cltcLive/static/js/runtime~main.88fa483f.js.map",
+    "static/js/2.61f59960.chunk.js": "/cltcLive/static/js/2.61f59960.chunk.js",
+    "static/js/2.61f59960.chunk.js.map": "/cltcLive/static/js/2.61f59960.chunk.js.map",
+    "index.html": "/cltcLive/index.html",
+    "precache-manifest.22029b6eabca65d855f899e0445ef214.js": "/cltcLive/precache-manifest.22029b6eabca65d855f899e0445ef214.js",
+    "service-worker.js": "/cltcLive/service-worker.js",
+    "static/css/main.f106a2ec.chunk.css.map": "/cltcLive/static/css/main.f106a2ec.chunk.css.map",
+    "static/media/App.scss": "/cltcLive/static/media/logo-open-live.1cccf552.png"
+  }
+}
